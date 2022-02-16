@@ -1,7 +1,7 @@
 ## Fusion motrosport website
 
-Figma desktop version [https://www.figma.com/proto/XcL4ssV5h05pYAEm7pYRhq/HCI_project_mobile?node-id=11%3A5&starting-point-node-id=11%3A5](https://www.figma.com/proto/XcL4ssV5h05pYAEm7pYRhq/HCI_project_mobile?node-id=11%3A5&starting-point-node-id=11%3A5)
-Figma mobile version
+[Figma mobile version](https://www.figma.com/proto/XcL4ssV5h05pYAEm7pYRhq/HCI_project_mobile?node-id=11%3A5&starting-point-node-id=11%3A5)
+Figma desktop version
 Notion report
 
 
