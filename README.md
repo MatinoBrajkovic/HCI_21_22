@@ -1,14 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Fusion motrosport website
 
-## Getting Started
+Figma desktop version [https://www.figma.com/proto/XcL4ssV5h05pYAEm7pYRhq/HCI_project_mobile?node-id=11%3A5&starting-point-node-id=11%3A5](https://www.figma.com/proto/XcL4ssV5h05pYAEm7pYRhq/HCI_project_mobile?node-id=11%3A5&starting-point-node-id=11%3A5)
+Figma mobile version
+Notion report
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
